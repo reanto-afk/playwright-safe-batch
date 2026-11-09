@@ -1,0 +1,9 @@
+node_modules/
+# sessão logada (cookies): nunca versionar
+.auth/
+storageState*.json
+# planos, checkpoints, snapshots, relatórios e evidências de execução
+runs/
+.env
+*.har
+test-results/
